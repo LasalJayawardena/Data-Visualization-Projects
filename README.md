@@ -5,3 +5,4 @@ Data Visualization Projects
 
 1) Citibike_Visualisation
 2) Covid-19_Dashboard
+3) Crypto_Currency_Data_Visualization
