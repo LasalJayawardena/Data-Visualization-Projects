@@ -9,3 +9,4 @@ Data Visualization Projects
 4) FIFA_Data_Analysis
 5) Geo_Spatial_Boston_Crime
 6) Geo_Spatial_analysis_with_covid_19
+7) NBA_Player_Explorer
