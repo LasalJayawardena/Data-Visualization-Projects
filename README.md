@@ -8,3 +8,4 @@ Data Visualization Projects
 3) Crypto_Currency_Data_Visualization
 4) FIFA_Data_Analysis
 5) Geo_Spatial_Boston_Crime
+6) Geo_Spatial_analysis_with_covid_19
