@@ -10,3 +10,4 @@ Data Visualization Projects
 5) Geo_Spatial_Boston_Crime
 6) Geo_Spatial_analysis_with_covid_19
 7) NBA_Player_Explorer
+8) Pandas_Seaborn
