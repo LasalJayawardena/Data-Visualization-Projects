@@ -12,3 +12,4 @@ Data Visualization Projects
 7) NBA_Player_Explorer
 8) Pandas_Seaborn
 9) Satelite_image
+10) World_Happiness_Report
