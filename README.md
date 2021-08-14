@@ -1,6 +1,8 @@
 Data Visualization Projects
 ===========================
 
+## Technologies
+
 ### Projects:
 
 1) Citibike_Visualisation
