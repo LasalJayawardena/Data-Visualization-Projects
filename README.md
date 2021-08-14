@@ -3,6 +3,11 @@ Data Visualization Projects
 
 ## Technologies
 
+<div style="display:flex; margin: auto;">
+
+
+</div>
+
 ### Projects:
 
 1) Citibike_Visualisation
