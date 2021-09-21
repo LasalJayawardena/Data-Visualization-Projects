@@ -24,4 +24,5 @@ Data Visualization Projects
 9) Satelite_image
 10) World_Happiness_Report
 11) World_Hapiness_High_Dimentional_Visualization
+12) Yellow_brick_text_data_analysis
 
