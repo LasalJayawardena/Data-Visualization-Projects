@@ -23,3 +23,5 @@ Data Visualization Projects
 8) Pandas_Seaborn
 9) Satelite_image
 10) World_Happiness_Report
+11) World_Hapiness_High_Dimentional_Vi
+
