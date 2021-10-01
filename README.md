@@ -11,7 +11,7 @@ Data Visualization Projects
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 </div>
 
-### Projects
+### Projects:
 
 1) Citibike_Visualisation
 2) Covid-19_Dashboard
